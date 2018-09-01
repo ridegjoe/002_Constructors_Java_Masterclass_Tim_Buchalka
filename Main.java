@@ -44,6 +44,7 @@ public class Main {
         // TIM BUCHALKA'S JAVA MASTERCLASS CHALLENGE END
         //
         // The code with the solution is made by myself.
+        // https://www.udemy.com/java-the-complete-java-developer-course/
 
         System.out.println("A) CHALLENGE OF CLASSES");
         System.out.println("");
